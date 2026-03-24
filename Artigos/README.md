@@ -6,12 +6,12 @@ Lista de materiais separados para consulta durante a pesquisa e desenvolvimento 
 
 ## 📄 Artigos Científicos
 
-| Nome do Artigo / Referência                                                                                                                   | Link                                                                                                | Observações |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Experiências Inovadoras em Ensino e Pesquisa da Geometria Descritiva** / *Revista Brasileira de Expressão Gráfica (RBEG)*                   | [Acessar artigo](https://www.rbeg.net/index.php/rbeg/article/view/36)                               | --          |
-| **O Estudo do Ponto em Jogo: a ludicidade no ensino da Geometria Descritiva** / *Educitec (IFAM)*                                             | [Acessar artigo](https://sistemascmc.ifam.edu.br/educitec/index.php/educitec/article/view/1898/834) | --          |
-| **Challenges and possibilities of digital games in mathematics teaching: a situational overview...** / *Journal on Interactive Systems (SBC)* | [Acessar artigo](https://journals-sol.sbc.org.br/index.php/jis/article/view/4155)                   | --          |
-
+| Nome do Artigo / Referência                                                                                                                      | Link                                                                                                | Observações |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :---------- |
+| **Experiências Inovadoras em Ensino e Pesquisa da Geometria Descritiva** / *Revista Brasileira de Expressão Gráfica (RBEG)*                      | [Acessar artigo](https://www.rbeg.net/index.php/rbeg/article/view/36)                               | --          |
+| **O Estudo do Ponto em Jogo: a ludicidade no ensino da Geometria Descritiva** / *Educitec (IFAM)*                                                | [Acessar artigo](https://sistemascmc.ifam.edu.br/educitec/index.php/educitec/article/view/1898/834) | --          |
+| **Challenges and possibilities of digital games in mathematics teaching: a situational overview...** / *Journal on Interactive Systems (SBC)*    | [Acessar artigo](https://journals-sol.sbc.org.br/index.php/jis/article/view/4155)                   | --          |
+| **Percepção visual : design e tecnologia aplicados à geometria descritiva** / *Repositório Digital da Universidade Federal do Rio Grande do Sul* | [Acessar artigo](https://lume.ufrgs.br/handle/10183/140489)                                         | --          |
 ---
 
 ## 💻 Sites e Ferramentas de Referência
