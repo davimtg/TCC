@@ -1,11 +1,11 @@
-# 🎲 Maratona de Geometria Descritiva (Web App)
+# Maratona de Geometria Descritiva (Web App)
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 Este projeto é a primeira etapa do Trabalho de Conclusão de Curso (TCC) em Ciência da Computação. O objetivo é transpor um jogo de tabuleiro físico educativo, focado no ensino lúdico de Geometria Descritiva, para o ambiente digital (Web). 
 
 ---
 
-## 🏗️ Arquitetura e Engenharia de Software
+## Arquitetura e Engenharia de Software
 
 Para o planejamento inicial do sistema, foram desenvolvidos diagramas UML que mapeiam a lógica, o fluxo de usuário e a estrutura de dados.
 
